@@ -18,6 +18,7 @@ npm install
 
 ```sh
 npm run dev
+npm run server
 ```
 
 ### Compile and Minify for Production
@@ -25,4 +26,3 @@ npm run dev
 ```sh
 npm run build
 ```
->>>>>>> master
